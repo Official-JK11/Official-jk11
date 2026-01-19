@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Stats
 
-> **Note:** These stats are automatically updated in real-time based on your GitHub activity! 🔄
+> **Note:** These stats are automatically updated in real-time based on GitHub activity! 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=official-jk11&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="official-jk11 top languages" />
