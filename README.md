@@ -69,16 +69,22 @@
 
 ## 📊 GitHub Stats
 
+> **Note:** These stats are automatically updated in real-time based on your GitHub activity! 🔄
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=official-jk11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="official-jk11" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=official-jk11&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="official-jk11 top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=official-jk11&show_icons=true&locale=en&theme=tokyonight" alt="official-jk11" />
+  <img src="https://github-readme-stats.vercel.app/api?username=official-jk11&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="official-jk11 github stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-jk11&theme=tokyonight" alt="official-jk11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=official-jk11&theme=tokyonight&hide_border=true" alt="official-jk11 contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=official-jk11&theme=tokyo-night&hide_border=true&area=true" alt="official-jk11 activity graph" />
 </p>
 
 ---
