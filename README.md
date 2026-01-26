@@ -22,7 +22,7 @@
 ## 🌟 Featured Projects
 
 ### 📊 Data Science & Machine Learning
-- **[Employee-Attrition-Analysis](https://github.com/Official-JK11/Employee-Attrition-Analysis)** ⭐ - Analyzing employee attrition patterns using SQL
+- **[Employee-Attrition-Analysis](https://github.com/Official-JK11/Employee-Attrition-Analysis)**  - Analyzing employee attrition patterns using SQL
 - **[Zomato-Sales-Analysis](https://github.com/Official-JK11/Zomato-Sales-Analysis-)** - Deep dive into Zomato sales data with insights and visualizations
 - **[Vendor-Performance-Analysis](https://github.com/Official-JK11/Vendor-Performance-Analysis)** - Performance metrics and analysis for vendor evaluation
 
